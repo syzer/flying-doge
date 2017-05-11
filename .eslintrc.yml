@@ -11,6 +11,7 @@
 env:
   es6: true                           # Enable ES2015+ features
   browser: true                       # Enable Browser global variables
+  node : true
 
 parserOptions:
   ecmaVersion: 2016                   # Validate ECMAScript 2016 syntax

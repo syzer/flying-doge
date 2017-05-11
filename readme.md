@@ -2,7 +2,12 @@
 
 >   About a doge that dear to fly...
 
-![moving tree shadow](https://raw.githubusercontent.com/syzer/game-fake-3d/master/docs/moving-trees.gif)
+```js
+![flying doge](https://raw.githubusercontent.com/syzer/game-fake-3d/master/docs/moving-trees.gif)
+```
+
+## Based on :
+[firestarter](https://phaser.io/examples/v2/particles/firestarter)
 
 ---
 

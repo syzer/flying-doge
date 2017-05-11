@@ -10,9 +10,9 @@ import Doge from '../objects/Doge'
 export default class Game extends Phaser.State {
 
   create() {
-    this.game.stage.backgroundColor = '#f9fffd'
-
     const { centerX: x, centerY: y } = this.world
+    this.game.stage.backgroundColor = '#f9fffd'
+    this.game.add.tileSprite(0, 0, this.game.width, this.game.height, 'starfield')
     const doge = new Doge(this.game, x/2, y)
     this.add.existing(doge)
 

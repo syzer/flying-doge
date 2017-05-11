@@ -17,8 +17,31 @@ export default {
   }],
 
   // -- General assets used throughout the game.
-  game: [{
-    key: 'dog-wow-astronaut',
-    type: 'image'
-  }]
+  game: [
+    {
+      key: 'starfield',
+      type: 'image'
+    },
+    {
+      key: 'dog-wow-astronaut',
+      type: 'image'
+    },
+    {
+      key: 'fire1',
+      type: 'image'
+    },
+    {
+      key: 'fire2',
+      type: 'image'
+    },
+    {
+      key: 'fire3',
+      type: 'image'
+    },
+    {
+      key: 'smoke-puff',
+      type: 'image'
+    },
+
+  ]
 }
