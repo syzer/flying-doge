@@ -25,7 +25,6 @@ export default class Game extends Phaser.State {
     right.onDown.add(() => doge.turnRight())
     left.onDown.add(() => doge.turnLeft())
 
-
   }
 
 }

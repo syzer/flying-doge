@@ -2,9 +2,8 @@
 
 >   About a doge that dear to fly...
 
-```js
-![flying doge](https://raw.githubusercontent.com/syzer/game-fake-3d/master/docs/moving-trees.gif)
-```
+![flying doge](https://raw.githubusercontent.com/syzer/flying-doge/master/docs/flying-doge.png)
+
 
 ## Based on :
 [firestarter](https://phaser.io/examples/v2/particles/firestarter)
