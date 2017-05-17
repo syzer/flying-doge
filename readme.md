@@ -27,3 +27,9 @@ npm run test-dist # Build and run your project
 
 Should you consider distributing your game as an open source project, please
 choose and [include a LICENSE file](http://choosealicense.com/) for your project.
+
+
+# TODO
+- [ ] acceleration oposite of `exaust`, not only upwards
+- [X] enable smoke also on keyboard
+- [ ] fire/smoke trail must obey gravity
