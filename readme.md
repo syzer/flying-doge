@@ -1,5 +1,7 @@
 # [flying doge](https://example.com/my-game/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/flying-doge.svg)](https://greenkeeper.io/)
+
 >   About a doge that dear to fly...
 
 ![flying doge](https://raw.githubusercontent.com/syzer/flying-doge/master/docs/flying-doge.png)
